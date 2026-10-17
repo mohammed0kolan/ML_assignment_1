@@ -68,7 +68,11 @@ The strongest positive feature pairs include `sc_w` and `screen_area` (r = 0.960
 
 ## Negative correlation
 
-I did not find a strong negative correlation. The most negative pair is `four_g` and `talk_time`, at about r = ?0.046, which is very weak. One possible real-world explanation could be that 4G uses extra power and reduces call time, but these data do not show a meaningful relationship. Therefore, the assignment's request for a strong negative pair is not supported by this dataset.
+I did not find a strong negative correlation. The most negative pair is `four_g` and `talk_time`, at about r = -0.046, which is very weak. One possible real-world explanation could be that 4G uses extra power and reduces call time, but these data do not show a meaningful relationship. Therefore, the assignment's request for a strong negative pair is not supported by this dataset.
+
+## Generative AI use
+
+please note that Generative AI was used for brainstorming, code debugging, and report FORMATTING.the rest is my own honest Work.
 
 ## Conclusion
 
